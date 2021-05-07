@@ -34,7 +34,7 @@ body {
   .container__left__tabs ul > li {
     text-align: center;
     font-size: 0.8rem;
-    margin-top: 25px;
+    margin-top: 15px;
     transition: 0.2s all ease-in-out;
   }
   .container__left__tabs a {

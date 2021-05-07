@@ -65,4 +65,8 @@ form.addEventListener('submit', e => {
     checkEmail(email);
     checkFullName(fullname, 4, 20);
     checkPassword(password, 6, 25);
+    // if(checkEmail(email)&&checkFullName(fullname, 4, 20)&&checkPassword(password, 6, 25)){
+        
+    // }
+    location="../dashboard/hours.html"
 })
